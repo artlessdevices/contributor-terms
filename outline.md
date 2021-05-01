@@ -1,0 +1,14 @@
+- permission to release under free license
+    - pay estimate of net present value of any royalties
+- work models
+    - already done
+    - commissioned work
+    - partly done, partly commissioned
+- payment models
+    - flat fee
+    - part down, balance on delivery
+    - retainer down, hourly rate, hours breakpoint, fee cap
+    - royalty
+        - percentage of gross license fees
+        - reduction when project used in larger project
+        - includes fees for support, hosting, other ancillary services
