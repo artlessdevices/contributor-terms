@@ -1,3 +1,12 @@
+- agree by email, link to terms
+- email templates
+- warranty and indemnity
+- familiarity with WMFH and assignments
+- allow Blue Oak silver+ with notices
+- communication by email
+- agreed currency
+- choice of payment system
+    - address transaction fees
 - permission to release under free license
     - pay estimate of net present value of any royalties
 - work models
@@ -6,7 +15,7 @@
     - partly done, partly commissioned
 - payment models
     - flat fee
-    - part down, balance on delivery
+    - part down, balance on acceptance
     - retainer down, hourly rate, hours breakpoint, fee cap
     - royalty
         - percentage of gross license fees
